@@ -1,2 +1,2 @@
-# test-repo
-test only repo
+# "copy" branch of test-repo
+test only repo and branch
